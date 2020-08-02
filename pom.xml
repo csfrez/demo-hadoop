@@ -6,6 +6,7 @@
 	<artifactId>demo-hadoop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo-hadoop</name>
+	<packaging>jar</packaging>
 	<description>Demo hadoop project for Spring Boot</description>
 
 	<properties>
